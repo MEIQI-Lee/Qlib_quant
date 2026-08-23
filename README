@@ -1,2 +1,3 @@
-Qilb，即微软 AI 量化投资平台
-项目采用Qlib框架，对科创板全部股票使用Alstm和LightGBM模型进行收益率预测
+# Qlib框架在科创板中的应用
+## Qilb，即微软 AI 量化投资平台
+## 项目采用Qlib框架，对科创板全部股票使用Alstm和LightGBM模型进行收益率预测
